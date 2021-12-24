@@ -5,18 +5,18 @@
     "env": {
         "ID": {
             "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+            "value": "edd6aa1a-09c1-47ce-a942-d7c56a2c16f9"
         },
         "AID": {
             "description": "AlterID",
-            "value": "64"
+            "value": "8964"
         },
         "WSPATH": {
             "description": "WebSocket Path",
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "website": "https://shithole.xjp/",
+    "repository": "https://github.com/s114514/mtsinai",
     "stack": "container"
 }
